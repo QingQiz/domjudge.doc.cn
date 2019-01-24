@@ -24,8 +24,8 @@
 
 ## 裁判手册
 * [1 Domjudge 总体介绍](judge-manual/1-domjudge-overview/README.md)
-    * [1.1 功能](judge-mannual/1-domjudge-overview/1.1-features.md)
-    * [1.2 版权许可](judge-mamnual/1-domjudge-overview/1.2-copyright-and-licencing.md)
+    * [1.1 功能](judge-manual/1-domjudge-overview/1.1-features.md)
+    * [1.2 版权许可](judge-manual/1-domjudge-overview/1.2-copyright-and-licencing.md)
     * [1.3 联系我们](judge-manual/1-domjudge-overview/1.3-contact.md)
 * [2 概要](judge-manual/2-general/README.md)
     * [2.1 裁判与管理员](judge-manual/2-general/2.1-judges-and-administrators.md)
