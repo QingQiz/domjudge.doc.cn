@@ -23,10 +23,10 @@
 
 ---
 Figure 1: 网页队伍总览界面
-![Figure 1: 网页队伍总览界面](team-manual/../Fig1.png)
+![Figure 1: 网页队伍总览界面](https://github.com/QingQiz/domjudge.doc.cn/blob/master/team-manual/0-summary/Fig1.png)
 
 Figure 2: 榜单界面
-![Figure 2: 榜单界面](team-manual/../Fig2.png)
+![Figure 2: 榜单界面](https://github.com/QingQiz/domjudge.doc.cn/blob/master/team-manual/0-summary/Fig2.png)
 
 ---
 
