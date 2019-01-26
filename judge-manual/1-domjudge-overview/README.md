@@ -1,2 +1,1 @@
-# 1 Domjudge 总体介绍
-
+../../admin-manual/1-domjudge-overview/README.md
