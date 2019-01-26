@@ -39,7 +39,8 @@
 * [附录](admin-manual/a-appendix/README.md)
     * [8 一般题目和题解](admin-manual/a-appendix/8-common-problems-and-their-solutions.md)
     * [9 多站比赛](admin-manual/a-appendix/9-multi-site-contests.md)
-    * [10 致开发者](admin-manual/a-appendix/10-developer-information.md)
+    * [10 致开发者](admin-manual/a-appendix/10-developer-information/README.md)
+        * [10.3 Makefile 结构](admin-manual/a-appendix/10-developer-information/10.3-makefile-structure.md)
 
 ## 裁判手册
 * [1 Domjudge 总体介绍](judge-manual/1-domjudge-overview/README.md)
