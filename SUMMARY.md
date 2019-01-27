@@ -58,7 +58,7 @@
 * [4 比赛期间](judge-manual/4-during-the-contest/README.md)
     * [4.1 监测队伍状态](judge-manual/4-during-the-contest/4.1-monitor-teams.md)
     * [4.2 评测提交](judge-manual/4-during-the-contest/4.2-judging-submissions.md)
-    * [4.3 提问](judge-manual/4-during-the-contest/4.3-clarification-requests.md)
+    * [4.3 解释请求](judge-manual/4-during-the-contest/4.3-clarification-requests.md)
 * [5 比赛后](judge-manual/5-after-the-contest.md)
 * [附录](judge-manual/a-appendix/README.md)
     * [6 题目打包格式](judge-manual/a-appendix/6-problem-package-format.md)
