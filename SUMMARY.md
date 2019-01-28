@@ -68,10 +68,10 @@
     * [1.2 通过网页界面](team-manual/1-submitting-solutions/1.2-web-interface.md)
 * [2 查看提交结果](team-manual/2-viewing-the-results-of-submissions/README.md)
     * [2.1 可能的情况](team-manual/2-viewing-the-results-of-submissions/2.1-possible-results.md)
-* [3 声明](team-manual/3-clarifications.md)
+* [3 声明](team-manual/3-clarifications/3-clarifications.md)
 * [4 如何评测提交的程序](team-manual/4-how-are-submissions-being-judged/README.md)
-    * [4.1 提交程序](team-manual/4-how-are-submissions-being-judged/4.1-submitting-solutions.md)
+    * [4.1 提交您的答案](team-manual/4-how-are-submissions-being-judged/4.1-submitting-solutions.md)
     * [4.2 编译](team-manual/4-how-are-submissions-being-judged/4.2-compilation.md)
     * [4.3 测试](team-manual/4-how-are-submissions-being-judged/4.3-testing.md)
     * [4.4 各种限制](team-manual/4-how-are-submissions-being-judged/4.4-restrictions.md)
-
+* [5 附录](team-manual/5-appendix/appendix.md)
