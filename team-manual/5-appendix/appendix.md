@@ -20,7 +20,8 @@
  
  *注意输入第一行的 3 代表有三组测试数据*
 
- * 下面是C语言的解：
+* 下面是C语言的解：
+
 ```c
 #include <stdio.h>
 int main() {
@@ -35,6 +36,7 @@ int main() {
 ```
 
 * 下面是C++的解：
+
 ```c++
 #include <iostream>
 #include <string>
@@ -51,6 +53,7 @@ int main() {
 ```
 
 * 下面是Java的解：
+
 ```java
 import java.util.*;
 class Main {
@@ -66,6 +69,7 @@ class Main {
 ```
 
 * 下面是Python的解：
+
 ```python
 import sys
 
@@ -78,6 +82,7 @@ print('Hello %s!' % (name))
 ```
 
 * 下面是C#的解：
+
 ```C#
 using System;
 public class Hello {
@@ -92,7 +97,8 @@ public class Hello {
 
 ```
 
-*下面是Pascal的解：
+* 下面是Pascal的解：
+
 ```pascal
 program example(input, output);
 var
@@ -109,6 +115,7 @@ end.
 ```
 
 * 最后是Haskell的解：
+
 ```haskell
 import Prelude
 main :: IO ()
