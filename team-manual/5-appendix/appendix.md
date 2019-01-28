@@ -83,7 +83,7 @@ print('Hello %s!' % (name))
 
 * 下面是C#的解：
 
-```C#
+```csharp
 using System;
 public class Hello {
     public static void Main(string[] args) {
