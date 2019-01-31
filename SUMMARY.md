@@ -38,6 +38,7 @@
 * [7 安全性](admin-manual/7-security.md)
 * [附录](admin-manual/a-appendix/README.md)
     * [8 常见问题和解决方案](admin-manual/a-appendix/8-common-problems-and-their-solutions/README.md)
+        * [8.5 Memory limit errors in the web interface](admin-manual/a-appendix/8-common-problems-and-their-solutions/8.5-memory-limit-errors-in-web-interface.md)
         * [8.6 Compiler errors: `runguard: root privileges not dropped'](admin-manual/a-appendix/8-common-problems-and-their-solutions/8.6-compiler-errros-runguard-root-privileges-not-dropped.md)
     * [9 多站比赛](admin-manual/a-appendix/9-multi-site-contests.md)
     * [10 致开发者](admin-manual/a-appendix/10-developer-information/README.md)
