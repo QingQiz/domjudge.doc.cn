@@ -39,7 +39,7 @@
 	* [4.5 开启守护进程](admin-manual/4-setting-up-a-contest/4.5-start-the-deamons.md)
 	* [4.6 检查确保一切就绪](admin-manual/4-setting-up-a-contest/4.6-check-that-everyting-works.md)
 	* [4.7 测试裁判解（jury solutions）](admin-manual/4-setting-up-a-contest/4.7-testing-jury-solutions.md)
-* [5 队伍环境](admin-manual/5-team-workstations.md)
+* [5 队伍环境](admin-manual/5-team-workstation/README.md)
 * [6 网页界面](admin-manual/6-web-interface.md)
 * [7 安全性](admin-manual/7-security.md)
 * [附录](admin-manual/a-appendix/README.md)
