@@ -25,7 +25,7 @@
     * [3.11 可执行文件](admin-manual/3-installation-and-configuration/3.11-executable.md)
     * [3.12 语言设置](admin-manual/3-installation-and-configuration/3.12-configuration-of-language.md)
     * [3.13 设置特殊运行和比较程序](admin-manual/3-installation-and-configuration/3.13-configuration-of-special-run-and-compare-programs.md)
-    * [3.14 警报系统](admin-manual/3-installation-and-configuration/3.14-alerting-system.md)
+    * [3.14 通知系统](admin-manual/3-installation-and-configuration/3.14-alerting-system.md)
     * [3.15 其他可配置脚本](admin-manual/3-installation-and-configuration/3.15-other-configurable-scripts.md)
     * [3.16 日志和调试](admin-manual/3-installation-and-configuration/3.16-logging-and-debugging.md)
     * [3.17 (重新)生成文档和团队手册](admin-manual/3-installation-and-configuration/3.17-re-generating-documentation-and-the-team-manual.md)
