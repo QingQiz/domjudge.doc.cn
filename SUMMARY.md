@@ -24,7 +24,7 @@
     * [3.10 OpenID connect](admin-manual/3-installation-and-configuration/3.10-openid-connect.md)
     * [3.11 可执行文件](admin-manual/3-installation-and-configuration/3.11-executable.md)
     * [3.12 语言设置](admin-manual/3-installation-and-configuration/3.12-configuration-of-language.md)
-    * [3.13 设置special-judge](admin-manual/3-installation-and-configuration/3.13-configuration-of-special-run-and-compare-programs.md)
+    * [3.13 设置特殊运行和比较程序](admin-manual/3-installation-and-configuration/3.13-configuration-of-special-run-and-compare-programs.md)
     * [3.14 警报系统](admin-manual/3-installation-and-configuration/3.14-alerting-system.md)
     * [3.15 其他可配置脚本](admin-manual/3-installation-and-configuration/3.15-other-configurable-scripts.md)
     * [3.16 日志和调试](admin-manual/3-installation-and-configuration/3.16-logging-and-debugging.md)
