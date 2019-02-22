@@ -56,6 +56,8 @@
         * [8.6 Compiler errors: `runguard: root privileges not dropped'](admin-manual/a-appendix/8-common-problems-and-their-solutions/8.6-compiler-errros-runguard-root-privileges-not-dropped.md)
     * [9 多站比赛](admin-manual/a-appendix/9-multi-site-contests.md)
     * [10 致开发者](admin-manual/a-appendix/10-developer-information/README.md)
+		* [10.1 从 Git 源码库引导](admin-manual/a-appendix/10-developer-information/10.1-bootstrapping-from-git-repository-sources.md)
+		* [10.2 维护模式安装](admin-manual/a-appendix/10-developer-information/10.2-maintainer-mode-installation.md)
         * [10.3 Makefile 结构](admin-manual/a-appendix/10-developer-information/10.3-makefile-structure.md)
 
 ## 裁判手册
