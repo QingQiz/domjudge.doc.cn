@@ -15,7 +15,7 @@
 * [3 安装与配置](admin-manual/3-installation-and-configuration/README.md)
     * [3.1 快速安装](admin-manual/3-installation-and-configuration/3.1-quick-installation.md)
     * [3.2 准备工作](admin-manual/3-installation-and-configuration/3.2-prerequisites.md)
-    * [3.3 安装系统](admin-manual/3-installation-and-configuration/3.3-installation-system.md)
+    * [3.3 安装评测系统](admin-manual/3-installation-and-configuration/3.3-installation-system.md)
     * [3.4 安装数据库](admin-manual/3-installation-and-configuration/3.4-database-installation.md)
     * [3.5 Web 服务器配置](admin-manual/3-installation-and-configuration/3.5-web-server-configuration.md)
     * [3.6 微调服务器的设置](admin-manual/3-installation-and-configuration/3.6-fine-tuning-server-setting.md)
