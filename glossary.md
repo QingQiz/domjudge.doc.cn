@@ -1,7 +1,7 @@
 # 术语对照表
 
 |原文|译文|其他译文|
-|-:|-|-|
+|-:|:-:|:-:|
 |DOM|圆塔||
 |Clarification|解释||
 |Clarification requests|解释请求|请求解释|
